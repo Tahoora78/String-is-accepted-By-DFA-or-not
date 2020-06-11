@@ -1,0 +1,8 @@
+This code is written in java.
+And it get the text file as the input. 
+So you should just enter your address of the txt file.
+The strings that you enter to test the program should have a apace between them.
+For example for the test txt file it should like:1 0 1
+and when you enter no as the input the program will quit.
+The algorithm of this program:
+This program will make the DFA transition table at first, and then 

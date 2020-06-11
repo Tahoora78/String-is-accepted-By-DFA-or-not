@@ -1,0 +1,10 @@
+a b
+x y z
+x
+y
+x a y
+x b y
+y a z
+y b z
+z a z
+z b z
